@@ -893,6 +893,7 @@ cite {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  background-color: background: var(--white);;
 }
 
 .form-row {
